@@ -1,0 +1,12 @@
+name = "Dim"
+age = "2"
+is_male = False
+
+
+print("hello my name is " + name + " Fer")
+print("I am " + age + " years old")
+
+name = "chal"
+age = "3"
+print("hello my name is " + name + " Fer")
+print("I am " + age + " years old")
