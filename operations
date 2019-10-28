@@ -1,0 +1,6 @@
+minute = 59
+time = minute * 25
+
+print(time)
+print(time/60)
+print(minute*100/60)
